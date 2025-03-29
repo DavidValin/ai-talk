@@ -24,6 +24,6 @@ README.md `https://github.com/DavidValin/ai-ask`
 
 * `ttalk` Starts the program
 
-Say 'hey, man' to start recording. It will stop on 2 second silence.
+Say 'hey, listen' to start recording. It will stop on 2 second silence.
 This audio will be transcribed to text and prompted to ollama via `ask`.
 See ttalk.sh for details and customizations.
