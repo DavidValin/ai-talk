@@ -42,7 +42,7 @@ callback() {
   ask "$PROMPT_TEXT"
 }
 
-echo "\nLet's talk. Say 'hey, man' to start recording"
+echo "\nLet's talk. Say 'hey, listen' to start recording"
 echo "It will stop on 2 second silence:"
 echo "---------------------------------------"
 
